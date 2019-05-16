@@ -12,6 +12,10 @@ This app was created from the Angular Tutorial: Tour of Heroes, found here: http
 * `npm install`
 * `npm start`
 
+# How to Build
+
+* `npm run build`
+
 # Where it is deployed
 
 Find the deployed app on Netlify: https://rachelgroff176-angulartourofheroes.netlify.com/
